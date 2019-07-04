@@ -1,0 +1,221 @@
+#bash
+
+echo " This is a Python PIP package module installer for Windowzzzz"
+echo " It includes packages and modules you use the most for Python"
+echo " Last Updated April/3/2019"
+
+echo "Upgrade PIP and install some basics."
+
+python -m pip install --upgrade pip
+python -m pip install setuptools
+python -m pip install wheel
+python -m pip install keyboard
+python -m pip install serial
+python -m pip install camera
+python -m pip install joystick
+python -m pip install pygame
+
+echo "Install some math related things."
+
+python -m pip install numpy
+python -m pip install matplotlib
+python -m pip install scipy
+
+echo "Install Arduino and robot related stuff."
+
+python -m pip install arduino
+python -m pip install servo
+
+echo "Install 3d Printer Drivers, CNC, STL, and Gcode related things."
+
+python -m pip install pycnc
+python -m pip install stl
+python -m pip install qtgui
+python -m pip install fabby
+python -m pip install numpy-stl
+python -m pip install pygrbl
+python -m pip install grbl-link
+python -m pip install grbl-gamepad
+
+echo "Install Open Computer Vision and supporting things."
+
+python -m pip install pyopengl
+python -m pip install opencv-python
+python -m pip install opencv-utils
+python -m pip install YOSO
+
+echo "Install Internet and Web related things."
+
+python -m pip install beautifulsoup4
+
+echo "Install Cryptography related stuff."
+
+python -m pip install cryptography
+
+
+
+
+
+
+echo "a different aprotch if the above fails."
+
+echo "Upgrade PIP and install some basics."
+
+py -m pip install --upgrade pip
+py -m pip install setuptools
+py -m pip install wheel
+py -m pip install keyboard
+py -m pip install serial
+py -m pip install camera
+py -m pip install joystick
+py -m pip install pygame
+
+echo "Install some math related things."
+
+py -m pip install numpy
+py -m pip install matplotlib
+py -m pip install scipy
+
+echo "Install Arduino and robot related stuff."
+
+py -m pip install arduino
+py -m pip install servo
+
+echo "Install 3d Printer Drivers, CNC, STL, and Gcode related things."
+
+py -m pip install pycnc
+py -m pip install stl
+py -m pip install qtgui
+py -m pip install fabby
+py -m pip install numpy-stl
+py -m pip install pygrbl
+py -m pip install grbl-link
+py -m pip install grbl-gamepad
+
+echo "Install Open Computer Vision and supporting things."
+
+py -m pip install pyopengl
+py -m pip install qtgui
+py -m pip install vtk
+py -m pip install PyQt5
+py -m pip install opencv-python
+py -m pip install opencv-utils
+py -m pip install YOSO
+
+echo "Install Internet and Web related things."
+
+py -m pip install beautifulsoup4
+
+echo "Install Cryptography related stuff."
+
+py -m pip install cryptography
+
+
+
+
+
+
+echo "The same thing only for python 3"
+
+echo "Upgrade PIP and install some basics."
+
+python3 -m pip install --upgrade pip
+python3 -m pip install setuptools
+python3 -m pip install wheel
+python3 -m pip install keyboard
+python3 -m pip install serial
+python3 -m pip install camera
+python3 -m pip install joystick
+python3 -m pip install pygame
+
+echo "Install some math related things."
+
+python3 -m pip install numpy
+python3 -m pip install matplotlib
+python3 -m pip install scipy
+
+echo "Install Arduino and robot related stuff."
+
+python3 -m pip install arduino
+python3 -m pip install servo
+
+echo "Install 3d Printer Drivers, CNC, STL, and Gcode related things."
+
+python3 -m pip install pycnc
+python3 -m pip install stl
+python3 -m pip install qtgui
+python3 -m pip install fabby
+python3 -m pip install numpy-stl
+python3 -m pip install pygrbl
+python3 -m pip install grbl-link
+python3 -m pip install grbl-gamepad
+
+echo "Install Open Computer Vision and supporting things."
+
+python3 -m pip install pyopengl
+python3 -m pip install opencv-python
+python3 -m pip install opencv-utils
+python3 -m pip install YOSO
+
+echo "Install Internet and Web related things."
+
+python3 -m pip install beautifulsoup4
+
+echo "Install Cryptography related stuff."
+
+python3 -m pip install cryptography
+
+
+
+echo "a different aprotch if the above fails."
+
+echo "Upgrade PIP and install some basics."
+
+py3 -m pip install --upgrade pip
+py3 -m pip install setuptools
+py3 -m pip install wheel
+py3 -m pip install keyboard
+py3 -m pip install serial
+py3 -m pip install camera
+py3 -m pip install joystick
+py3 -m pip install pygame
+
+echo "Install some math related things."
+
+py3 -m pip install numpy
+py3 -m pip install matplotlib
+py3 -m pip install scipy
+
+echo "Install Arduino and robot related stuff."
+
+py3 -m pip install arduino
+py3 -m pip install servo
+
+echo "Install 3d Printer Drivers, CNC, STL, and Gcode related things."
+
+py3 -m pip install pycnc
+py3 -m pip install stl
+py3 -m pip install qtgui
+py3 -m pip install fabby
+py3 -m pip install numpy-stl
+py3 -m pip install pygrbl
+py3 -m pip install grbl-link
+py3 -m pip install grbl-gamepad
+
+echo "Install Open Computer Vision and supporting things."
+
+py3 -m pip install pyopengl
+py3 -m pip install qtgui
+py3 -m pip install vtk
+py3 -m pip install PyQt5
+py3 -m pip install opencv-python
+py3 -m pip install opencv-utils
+py3 -m pip install YOSO
+
+echo "Install Internet and Web related things."
+
+py3 -m pip install beautifulsoup4
+
+echo "Install Cryptography related stuff."
+
+py3 -m pip install cryptography
